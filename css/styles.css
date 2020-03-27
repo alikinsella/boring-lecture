@@ -3,10 +3,14 @@
   color: darkgray;  
 }
 h2.intro {
-  
+  font-size: 130%;
 }
 
 img.intro {
     font-style: Bold;
-    border-
+    border-color: red;
+}
+
+p.intro {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
